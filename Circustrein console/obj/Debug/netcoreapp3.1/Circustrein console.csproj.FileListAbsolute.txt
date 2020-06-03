@@ -1,0 +1,13 @@
+C:\Users\fokki\source\repos\Circustrein console\bin\Debug\netcoreapp3.1\Circustrein console.exe
+C:\Users\fokki\source\repos\Circustrein console\bin\Debug\netcoreapp3.1\Circustrein console.deps.json
+C:\Users\fokki\source\repos\Circustrein console\bin\Debug\netcoreapp3.1\Circustrein console.runtimeconfig.json
+C:\Users\fokki\source\repos\Circustrein console\bin\Debug\netcoreapp3.1\Circustrein console.runtimeconfig.dev.json
+C:\Users\fokki\source\repos\Circustrein console\bin\Debug\netcoreapp3.1\Circustrein console.dll
+C:\Users\fokki\source\repos\Circustrein console\bin\Debug\netcoreapp3.1\Circustrein console.pdb
+C:\Users\fokki\source\repos\Circustrein console\obj\Debug\netcoreapp3.1\Circustrein console.csprojAssemblyReference.cache
+C:\Users\fokki\source\repos\Circustrein console\obj\Debug\netcoreapp3.1\Circustrein console.csproj.CoreCompileInputs.cache
+C:\Users\fokki\source\repos\Circustrein console\obj\Debug\netcoreapp3.1\Circustrein console.AssemblyInfoInputs.cache
+C:\Users\fokki\source\repos\Circustrein console\obj\Debug\netcoreapp3.1\Circustrein console.AssemblyInfo.cs
+C:\Users\fokki\source\repos\Circustrein console\obj\Debug\netcoreapp3.1\Circustrein console.dll
+C:\Users\fokki\source\repos\Circustrein console\obj\Debug\netcoreapp3.1\Circustrein console.pdb
+C:\Users\fokki\source\repos\Circustrein console\obj\Debug\netcoreapp3.1\Circustrein console.genruntimeconfig.cache
