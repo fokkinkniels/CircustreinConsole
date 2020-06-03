@@ -33,7 +33,11 @@ namespace Circustrein_console
             {
                 var input = Console.ReadLine();
                 userInputText.Add(input);
-                userInputAnimals.Add(textToAnimal(input));
+
+                if(textToAnimal(input) != null)
+                {
+                    userInputAnimals.Add(textToAnimal(input));
+                }
             }
         }
 
