@@ -11,3 +11,16 @@ C:\Users\fokki\source\repos\Circustrein console\obj\Debug\netcoreapp3.1\Circustr
 C:\Users\fokki\source\repos\Circustrein console\obj\Debug\netcoreapp3.1\Circustrein console.dll
 C:\Users\fokki\source\repos\Circustrein console\obj\Debug\netcoreapp3.1\Circustrein console.pdb
 C:\Users\fokki\source\repos\Circustrein console\obj\Debug\netcoreapp3.1\Circustrein console.genruntimeconfig.cache
+C:\Users\fokki\Documents\NIELS\school\ICT 2\Eigen Project\Sprint 6\CircustreinConsole\Circustrein console\bin\Debug\netcoreapp3.1\Circustrein console.exe
+C:\Users\fokki\Documents\NIELS\school\ICT 2\Eigen Project\Sprint 6\CircustreinConsole\Circustrein console\bin\Debug\netcoreapp3.1\Circustrein console.deps.json
+C:\Users\fokki\Documents\NIELS\school\ICT 2\Eigen Project\Sprint 6\CircustreinConsole\Circustrein console\bin\Debug\netcoreapp3.1\Circustrein console.runtimeconfig.json
+C:\Users\fokki\Documents\NIELS\school\ICT 2\Eigen Project\Sprint 6\CircustreinConsole\Circustrein console\bin\Debug\netcoreapp3.1\Circustrein console.runtimeconfig.dev.json
+C:\Users\fokki\Documents\NIELS\school\ICT 2\Eigen Project\Sprint 6\CircustreinConsole\Circustrein console\bin\Debug\netcoreapp3.1\Circustrein console.dll
+C:\Users\fokki\Documents\NIELS\school\ICT 2\Eigen Project\Sprint 6\CircustreinConsole\Circustrein console\bin\Debug\netcoreapp3.1\Circustrein console.pdb
+C:\Users\fokki\Documents\NIELS\school\ICT 2\Eigen Project\Sprint 6\CircustreinConsole\Circustrein console\obj\Debug\netcoreapp3.1\Circustrein console.csprojAssemblyReference.cache
+C:\Users\fokki\Documents\NIELS\school\ICT 2\Eigen Project\Sprint 6\CircustreinConsole\Circustrein console\obj\Debug\netcoreapp3.1\Circustrein console.csproj.CoreCompileInputs.cache
+C:\Users\fokki\Documents\NIELS\school\ICT 2\Eigen Project\Sprint 6\CircustreinConsole\Circustrein console\obj\Debug\netcoreapp3.1\Circustrein console.AssemblyInfoInputs.cache
+C:\Users\fokki\Documents\NIELS\school\ICT 2\Eigen Project\Sprint 6\CircustreinConsole\Circustrein console\obj\Debug\netcoreapp3.1\Circustrein console.AssemblyInfo.cs
+C:\Users\fokki\Documents\NIELS\school\ICT 2\Eigen Project\Sprint 6\CircustreinConsole\Circustrein console\obj\Debug\netcoreapp3.1\Circustrein console.dll
+C:\Users\fokki\Documents\NIELS\school\ICT 2\Eigen Project\Sprint 6\CircustreinConsole\Circustrein console\obj\Debug\netcoreapp3.1\Circustrein console.pdb
+C:\Users\fokki\Documents\NIELS\school\ICT 2\Eigen Project\Sprint 6\CircustreinConsole\Circustrein console\obj\Debug\netcoreapp3.1\Circustrein console.genruntimeconfig.cache
