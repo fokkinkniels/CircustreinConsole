@@ -25,7 +25,7 @@ namespace Circustrein_console
             Console.WriteLine($"The provisional amount of animals is {amountEnd}");
             Console.WriteLine("");
             Console.WriteLine("");
-            Console.WriteLine("Now start entering all animals, Plese hit ENTER after every animals you want to add:");
+            Console.WriteLine("Now start entering all animals, Please hit ENTER after every animals you want to add:");
             Console.WriteLine("");
 
             //get userinput for how many animals he/she wants to add and saves this data
