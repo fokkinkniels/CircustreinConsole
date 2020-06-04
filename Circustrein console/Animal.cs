@@ -2,7 +2,7 @@
 
 namespace Circustrein_console
 {
-    abstract class Animal
+    public abstract class Animal
     {
         public float Size { get; set; }
         public string Name { get; set; }

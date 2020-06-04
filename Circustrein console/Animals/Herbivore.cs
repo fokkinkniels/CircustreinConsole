@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace CircusTrein.classes
 {
-    class Herbivore : Animal
+    public class Herbivore : Animal
     {
         public Herbivore(float size, string name)
         {
