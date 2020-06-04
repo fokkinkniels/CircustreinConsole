@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace CircusTrein.classes
 {
-    class Carnivore : Animal
+    public class Carnivore : Animal
     {
         public Carnivore(float size, string name)
         {

@@ -4,12 +4,15 @@ using System.Collections.Generic;
 
 namespace Circustrein_console
 {
-    class trainController
+    public class trainController
     {
         List<string> userInputText = new List<string>();
         List<Animal> userInputAnimals = new List<Animal>();
+        List<Animal> testInputAnimals = new List<Animal>();
         List<Animal> userInputAnimalsSorted = new List<Animal>();
         Train train = new Train();
+
+
 
 
         public void AddAnimalsToTrain()
@@ -21,7 +24,7 @@ namespace Circustrein_console
             {
                 train.AddToTrain(userInputAnimalsSorted[i]);
 
-                drawTextProgressBar(i+1, userInputAnimals.Count);
+                //drawTextProgressBar(i+1, userInputAnimals.Count);
             }
         }
 
@@ -112,6 +115,16 @@ namespace Circustrein_console
         }
 
 
+        public void AddToTrainFromTest(List<Animal> animals)
+        {
+            foreach (var animal in animals)
+            {
+                userInputAnimals.Add(animal);
+            }
+            AddAnimalsToTrain();
+        }
+
+
         private void drawTextProgressBar(int progress, int total)
         {
             //draw empty progress bar
@@ -143,6 +156,11 @@ namespace Circustrein_console
             Console.CursorLeft = 35;
             Console.BackgroundColor = ConsoleColor.Black;
             Console.Write(progress.ToString() + " of " + total.ToString() + "    "); //blanks at the end remove any excess
+        }
+
+        public int GetWagons()
+        {
+            return train.wagons.Count;
         }
     }
 }
