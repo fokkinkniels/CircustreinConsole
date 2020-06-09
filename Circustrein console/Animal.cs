@@ -4,9 +4,19 @@ namespace Circustrein_console
 {
     public abstract class Animal
     {
-        public float Size { get; set; }
-        public string Name { get; set; }
+        protected float Size;
+        protected string Name;
 
         public abstract bool CanFitInWagon(List<Animal> wagon, Animal animal);
+
+        public override string ToString()
+        {
+            return Name;
+        }
+
+        public float GetSize()
+        {
+            return Size;
+        }
     }
 }

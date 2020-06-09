@@ -5,7 +5,7 @@ namespace Circustrein_console
 {
     class Train 
     {
-        public List<Wagon> wagons = new List<Wagon>();
+        private List<Wagon> wagons = new List<Wagon>();
 
         public void AddToTrain(Animal animal)
         {
@@ -39,6 +39,11 @@ namespace Circustrein_console
             wagons.Add(newWagon);
             newWagon.AddToWagon(animal);
             //Console.WriteLine("A new wagon has been created");
+        }
+
+        public List<Wagon> GetWagons()
+        {
+            return wagons;
         }
     }
 }
