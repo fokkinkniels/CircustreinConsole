@@ -20,12 +20,12 @@ namespace CircusTrein.classes
         {
             //calculate occupied places in wagon
             float wagonOccupied = 0;
-            foreach(var a in animals)
+            foreach(var _animal in animals)
             {
-                wagonOccupied += a.Size;
+                wagonOccupied += _animal.GetSize();
 
                 //check is animal fots in wagon
-                if (wagonOccupied + animal.Size > 10)
+                if (wagonOccupied + animal.GetSize() > 10)
                 {
                     return false;
                 }
@@ -33,13 +33,13 @@ namespace CircusTrein.classes
 
 
             //loop throug all animals in wagon and checks if animal wont eat an other animal or wont be eaten
-            foreach (var a in animals)
+            foreach (var _animal in animals)
             {
-                if (a is Carnivore && a.Size >= animal.Size)
+                if (_animal is Carnivore && _animal.GetSize() >= animal.GetSize())
                 {
                     return false;
                 }
-                if (a.Size <= animal.Size)
+                if (_animal.GetSize() <= animal.GetSize())
                 {
                     return false;
                 }

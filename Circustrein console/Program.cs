@@ -45,7 +45,7 @@ namespace Circustrein_console
             Console.Clear();
             
             //start the adding animals to train procces
-            controller.AddAnimalsToTrain();
+            controller.CalculateWagons();
             Console.WriteLine("");
             Console.WriteLine("All animals have been succecfully added to the train!!");
             Console.WriteLine("");
